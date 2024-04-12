@@ -1,0 +1,15 @@
+Car,0
+Truck,1
+Van,2
+LongVehicle,3
+Bus,4
+Airliner,5
+PropellerAircraft,6
+TrainerAircraft,7
+CharteredAircraft,8
+FighterAircraft,9
+Others,10
+StairTruck,11
+PushbackTruck,12
+Helicopter,13
+Boat,14
